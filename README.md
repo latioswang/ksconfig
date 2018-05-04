@@ -13,7 +13,7 @@ Generate json from config
 ```
 python kscfg.py test_config.cfg.py
 ```
-Output is in `test_config.cfg.py`
+Output is in `test_config.cfg.json`
 ```
-cat test_config.cfg.py
+cat test_config.cfg.json
 ```
