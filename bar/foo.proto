@@ -1,0 +1,10 @@
+syntax="proto3";
+
+import "bar/bar.proto";
+
+package foo;
+
+message Config {
+  string name = 1;
+  repeated int32 types = 2;
+}
